@@ -21,6 +21,10 @@ Autonomous AI edge node utilizing an ESP32-S3, TinyML, and an encrypted LoRa mes
 * **Zero-Cloud Mesh Network:** Implements a localized flooding mesh algorithm with packet collision jitter and memory buffers to bounce alerts out of dense forest canopies.
 * **Offline Web Dashboard:** The Central Gateway hosts a local Wi-Fi Access Point and dynamically serves an HTML/CSS interface, allowing field rangers to view real-time decrypted logs without internet access.
 
+# Edge Impulse Model
+https://studio.edgeimpulse.com/public/987418/live
+
+
 ## Repository Structure
 * `/Scout_Node/` - Firmware for the battery-powered edge inference device.
 * `/Central_Gateway/` - Firmware for the base station, SD logging, and web server.
